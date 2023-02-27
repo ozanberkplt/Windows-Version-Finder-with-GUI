@@ -1,4 +1,4 @@
-# powershell
+# Finding the Windows Version of a Remote Computer
 
 If you need to find the version of Windows running on a remote computer, you can use PowerShell to quickly get the information you need. In this blog post, we will look at a PowerShell script that will allow you to find the version of Windows running on a remote computer.
 
